@@ -161,6 +161,7 @@ text-transform: capitalize;
   background-color: #FFFFFF
 }
 .our-team-item {
+  background-color: #FFFFFF
 }
 .our-team-img {
 }
@@ -216,10 +217,10 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #f4f4fd;
+color: #4d5ae5;
 }
 .footer-logo span {
- color: #4d5ae5;
+ color: #f4f4fd;
 }
 .footer-text {
   font-weight: 400;
