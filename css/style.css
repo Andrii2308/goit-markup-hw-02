@@ -16,6 +16,7 @@ a {
 }
 
 .header {
+  color: #2e2f42
 }
 .header-nav {
 }
@@ -39,7 +40,6 @@ color: #2e2f42;
 }
 
 .header-menu {
-  color: #2e2f42
 }
 .header-menu-item {
  color: #2e2f42
