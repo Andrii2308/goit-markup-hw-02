@@ -59,10 +59,6 @@ color: #2e2f42;
 .address-post-links:focus {
   background-color: #404bbf;
 }
-.address-tel-links:hover,
-.address-tel-links:focus {
-  background-color: #404bbf;
-}
 
 .address {
   font-style: normal;
@@ -219,7 +215,7 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
-.footer-logo span {
+.footer-logo .webstudio {
  color: #f4f4fd;
 }
 .footer-text {
