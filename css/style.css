@@ -4,12 +4,12 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  background-color: #ffffff;
-
+  background-color: #FFFFFF
 }
 
 ul {
   list-style-type: none;
+  background-color: #FFFFFF
 }
 a {
   text-decoration: none;
@@ -27,14 +27,21 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #2e2f42;
+color: #4d5ae5;
 }
 .header-logo span {
-  color: #4d5ae5;
+color: #2e2f42;
 }
 .header-menu {
 }
 .header-menu-item {
+}
+
+.order-service:hover,
+.order-service:focus,
+.header-menu-links:hover,
+.header-menu-links:focus {
+  color: #404bbf;
 }
 .header-menu-links {
 font-family: "Roboto", sans-serif;
@@ -43,8 +50,10 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2e2f42;
+
 }
 .address {
+  font-style: normal;
 }
 .address-list {
 }
@@ -80,7 +89,9 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+text-transform: capitalize; 
 }
+
 .order-service {
   font-weight: 500;
 font-size: 16px;
@@ -88,11 +99,13 @@ line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
 cursor: pointer;
+background-color: #4D5AE5
   
 }
 .advantages {
 }
 .advantages-title {
+  text-transform: capitalize; 
 }
 .advantages-list {
 }
@@ -123,6 +136,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize;
 }
 .our-team-list {
 }
@@ -137,6 +151,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize;
 }
 .our-team-item-text {
 font-size: 16px;
